@@ -7,7 +7,8 @@
     "dev": "ts-node-dev --ignore-watch node_modules src/server.ts",
     "migrate": "knex --knexfile knexfile.ts migrate:latest",
     "populate": "knex --knexfile knexfile.ts seed:run",
-    "install-dependencies-ts": "yarn add cors express knex sqlite3 && yarn add -D @types/cors @types/express nodemon ts-node ts-node-dev typescript"
+    "install-dependencies-ts": "yarn add cors express knex sqlite3 && yarn add -D @types/cors @types/express nodemon ts-node ts-node-dev typescript",
+    "ngrok": "ngrok http 3333"
   },
   "dependencies": {
     "cors": "^2.8.5",

@@ -23,7 +23,7 @@ class UserController {
         const trx = await knex.transaction()
 
         try {
-            const { name, office, is_admin } = request.body
+            const { name, office, is_admin } : User = request.body
 
             try {
                 const userExist = await trx('users')
