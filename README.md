@@ -3,14 +3,20 @@
 ## Commands
 
 >           To install all the dependencies run the command: 
->>                - If you have *yarn*: **yarn install-dependencies**
->>                - If you have *npm*: **npm install-dependencies**
+>>                - If you have * yarn *: ** yarn install-dependencies **
+>>                - If you have * npm *: ** npm install-dependencies **
 
 >           To share your localhost, you have to install on the project or on your machine globally. To
->       install globally on your machine, run this command `npm i -g ngrok`, or on your project only run
+>       install globally on your machine, run this command ` npm i -g ngrok `, or on your project only run
 >       this command: 
->>                - If you have *yarn*: **yarn add -D ngrok**
->>                - If you have *npm*: **npm install ngrok --save-dev**
+>>                - If you have * yarn *: ** yarn add -D ngrok **
+>>                - If you have * npm *: ** npm install ngrok --save-dev **
+
+>           To create the database you can create manually or by command. If you want to create manually
+>       you have to create the file with the name ` database.sqlite `, but if you want by command, you must
+>       run the command `yarn or npm`, its depends what you have, but what not change is for example using 
+>       'yarn' ` yarn migrate ` to create the database and ` yarn populate ` to pupulate you database with
+>       default values.
 
 
 ## Routes
