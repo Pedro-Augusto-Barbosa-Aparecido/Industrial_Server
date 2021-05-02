@@ -42,3 +42,12 @@
 >>    - `/sensors/get-value-by-sensor/:id_sensor` get value by unique sensor
 >> - `/sensors/delete/:id_sensor` delete a sensor
 >> - `/sensors/insert-value/` insert the value read by sensor
+
+- ## Reference
+
+>
+>   Ngrok: [ngrok documentatio](https://dashboard.ngrok.com/get-started/setup)
+>   Knex: [knex documentation](http://knexjs.org/)
+>   NPM: [NPM documentation and more libraries](https://docs.npmjs.com/)
+>   Express: [Express documentation](https://expressjs.com/pt-br/)
+>
