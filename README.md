@@ -47,7 +47,10 @@
 
 >
 >   Ngrok: [ngrok documentatio](https://dashboard.ngrok.com/get-started/setup)
+>
 >   Knex: [knex documentation](http://knexjs.org/)
+>
 >   NPM: [NPM documentation and more libraries](https://docs.npmjs.com/)
+>
 >   Express: [Express documentation](https://expressjs.com/pt-br/)
 >
