@@ -1,6 +1,6 @@
 # Server of Industrial Monitoring 4.0
 
-## Commands
+- ## Commands
 
 >           To install all the dependencies run the command: 
 >>                - If you have * yarn *: ** yarn install-dependencies **
@@ -19,7 +19,7 @@
 >       default values.
 
 
-## Routes
+- ## Routes
 
 > - Users
 >> - `/users/create/` route to create user by json body
