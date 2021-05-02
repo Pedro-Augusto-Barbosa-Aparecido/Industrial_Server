@@ -9,8 +9,8 @@
 >           To share your localhost, you have to install on the project or on your machine globally. To
 >       install globally on your machine, run this command `npm i -g ngrok`, or on your project only run
 >       this command: 
->                - If you have *__yarn__*: **`yarn add -D ngrok`**
->                - If you have *__npm__*: **`npm install ngrok --save-dev`**
+>                - If you have *yarn*: **`yarn add -D ngrok`**
+>                - If you have *npm*: **`npm install ngrok --save-dev`**
 
 
 ## Routes
