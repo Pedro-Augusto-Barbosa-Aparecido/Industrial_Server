@@ -2,9 +2,9 @@
 
 ## Commands
 
->     To install all the dependencies run the command: 
->                - If you have *__yarn__*: **`yarn install-dependencies`**
->                - If you have *__npm__*: **`npm install-dependencies`**
+>           To install all the dependencies run the command: 
+>                - If you have ***yarn***: **`yarn install-dependencies`**
+>                - If you have ***npm***: **`npm install-dependencies`**
 
 >           To share your localhost, you have to install on the project or on your machine globally. To
 >       install globally on your machine, run this command `npm i -g ngrok`, or on your project only run
